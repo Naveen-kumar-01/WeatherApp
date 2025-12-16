@@ -1,5 +1,6 @@
 # 🌦️ Weather App
  https://naveen-kumar-01.github.io/WeatherApp/
+ 
 This is a simple and interactive **Weather Application** built using **HTML, CSS, and JavaScript**.  
 The app fetches real-time weather data using the **OpenWeatherMap API** and displays temperature, humidity, wind speed, and weather conditions for any searched city.
 
